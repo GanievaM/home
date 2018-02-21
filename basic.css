@@ -1,0 +1,100 @@
+.img-1
+{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("parallax.jpg");
+	height: 100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+p, li
+{
+	font-size: 22px;
+	color: white;
+}
+
+p2
+{
+	text-align: center;
+	color: white;
+	border-style: double;
+	border-width: 4px;
+	border-color: white;
+	border-radius: 25px;
+	padding-left: 215px;
+	padding-right: 215px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 22%;
+}
+
+h1
+{
+	font-size: 40px;
+	color: LightSalmon;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+h2, h4
+{
+	text-align: center;
+	font-size: 30px;
+	color: LightSalmon;
+}
+
+h3
+{
+	text-align: center;
+	font-size: 25px;
+	color: #ccff66;
+}
+
+p, h2, h3, h4, li
+{	margin-left: 65px;
+	margin-right: 65px;
+}
+
+.mountain
+{
+	margin-bottom: 40px;
+	margin-top: 50px;
+	margin-left: 25%;
+	margin-right: 21%;
+	text-align: center;
+	border-style: double;
+	border-width: 4px;
+}
+
+.map
+{
+	float: right;
+	border-style: double;
+	border-width: 4px;
+	border-color: white;
+	padding-bottom: 0px;
+}
+
+.forest
+{
+	float: right;
+	margin-right: 100px;
+}
+
+.bear
+{
+	float: left;
+	margin-top: 15px;
+}
+
+a
+{
+	color: white;
+	font-size: 18px;
+}
+
+
+	
