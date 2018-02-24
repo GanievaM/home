@@ -1,0 +1,152 @@
+.img-1
+{
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url("tide.jpg");
+	height: 100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+p, ol
+{
+	font-size: 22px;
+	color: white;
+}
+
+
+/* This is the beginning of navbar section*/
+
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ffb3b3;
+	text-align: center;
+}
+
+#nav
+{
+    float: left;
+}
+
+#nav a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#nav a:hover 
+{
+    background-color: #ffb3b3;	/* This is a pink color */
+}
+
+/* This is the end of the navbar section*/
+
+#list
+{
+	font-size: 22px;
+	color: white;
+}
+
+h1
+{
+	font-size: 50px;
+	text-shadow: 2px 2px white;
+	color: #ff8080;
+	margin-top: 45px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+h2
+{
+	text-align: center;
+	font-size: 30px;
+	color: #ff8080;
+}
+
+h3
+{
+	text-align: center;
+	font-size: 25px;
+	color: #ccff66;
+}
+
+p, h2, h3, h4, li
+{	margin-left: 80px;
+	margin-right: 80px;
+}
+
+.mountain
+{
+	margin-bottom: 40px;
+	margin-top: 15px;
+	margin-left: 10%;
+	margin-right: 9%;
+	text-align: center;
+}
+
+.map
+{
+	float: right;
+	padding-bottom: 0px;
+}
+
+.forest
+{
+	float: right;
+	margin-right: 100px;
+}
+
+.bear
+{
+	float: left;
+	margin-top: 15px;
+}
+
+a
+{
+	color: white;
+	font-size: 15pt;
+	text-align: center;
+}
+
+.waterfall
+{
+	float: right;
+}
+
+.logo
+{
+	margin-left: 47%;
+	margin-right: 25%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.return
+{
+	margin-left: 40%; /* Button */
+}
+
+img
+{
+	border-style: double;
+	border-width: 4px;
+	border-color: white;
+}
+	
+	
+
+
+	

@@ -1,0 +1,56 @@
+
+
+h1
+{
+	padding-top: 20%;
+	text-align: center;
+	color: white;
+	font-size: 100px;
+}
+
+.img-1
+{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("atlantic.jpg");
+	height: 100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-2
+{
+	background-image: url("maritime.jpg");
+	height: 500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+p, h2
+{
+	text-align: center;
+	color: purple;
+}
+
+p2
+{
+	text-align: center;
+	color: white;
+	border-style: double;
+	border-width: 6px;
+	border-color: white;
+	border-radius: 25px;
+	padding-left: 215px;
+	padding-right: 215px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 5%;
+}
+
+a
+{
+	color: white;
+	font-size: 18px;
+}
