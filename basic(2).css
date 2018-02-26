@@ -1,0 +1,27 @@
+.img-1 /*This is formatting for the background image of the page*/
+{
+    background: url("geo.jpg");
+	height: 10%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1
+{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+li
+{
+	color: white;
+	font-size: 22px;
+}
+
+a
+{
+	color: green;
+}
